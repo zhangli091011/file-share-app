@@ -1,3 +1,6 @@
+随便拿ai写着玩的，有问题请提issus
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
